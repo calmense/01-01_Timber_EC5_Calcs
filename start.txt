@@ -1,0 +1,2 @@
+cd C:\Users\Cal.Mense\OneDrive - Arup\04_Python Projects\Part 01-01_Timber_EC5_Calcs
+streamlit run timber_ec5_calcs_main.py
